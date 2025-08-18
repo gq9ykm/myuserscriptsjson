@@ -1,0 +1,54 @@
+[
+    {
+        "value": 0,
+        "label": "热门"
+    },
+    {
+        "value": 1,
+        "label": "华语男歌手"
+    },
+    {
+        "value": 2,
+        "label": "华语女歌手"
+    },
+    {
+        "value": 3,
+        "label": "华语组合"
+    },
+    {
+        "value": 4,
+        "label": "欧美男歌手"
+    },
+    {
+        "value": 5,
+        "label": "欧美女歌手"
+    },
+    {
+        "value": 6,
+        "label": "欧美组合"
+    },
+    {
+        "value": 7,
+        "label": "日本男歌手"
+    },
+    {
+        "value": 8,
+        "label": "日本女歌手"
+    },
+    {
+        "value": 9,
+        "label": "日本组合"
+    },
+    {
+        "value": 10,
+        "label": "韩国男歌手"
+    },
+    {
+        "value": 11,
+        "label": "韩国女歌手"
+    },
+    {
+        "value": 12,
+        "label": "韩国组合"
+    }
+]
